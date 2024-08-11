@@ -1,0 +1,17 @@
+.customer-details h2 {
+    margin-top: 0;
+    margin-left: 375px
+  }
+  
+  .photo-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+  }
+  
+  .photo-grid img {
+    width: 100%;
+    height: 200px;
+    border-radius: 4px;
+  }
+  
