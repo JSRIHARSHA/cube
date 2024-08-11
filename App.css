@@ -1,0 +1,15 @@
+.app {
+  display: flex;
+  height: 100vh;
+}
+
+.customer-list {
+  width: 30%;
+  overflow-y: auto;
+  border-right: 1px solid #ddd;
+}
+
+.customer-details {
+  width: 70%;
+  padding: 20px;
+}
